@@ -38,13 +38,21 @@ git clone https://github.com/ryee0008/tasks.git
 cd backend
 ```
 
-### 2. Install dependencies (with faster registry)
+### 2. Make sure Node.js is installed
+
+```bash
+node -v
+npm -v
+```
+If not installed, download it from [https://nodejs.org](https://nodejs.org)
+
+### 3. Install dependencies (with faster registry)
 
 ```bash
 npm install
 ```
 
-### 3. Start the app
+### 4. Start the app
 
 ```bash
 npm run dev
@@ -55,7 +63,7 @@ Server runs on:
 
 ---
 
-## 📦 API Overview
+## 📆 API Overview
 
 ### 📘 Book API
 
@@ -94,6 +102,7 @@ Use these to test endpoints via Postman.
 
 ## 📌 Notes
 
+- Make sure Node.js is installed before running `npm install`
 - Data is persisted to local JSON files in `/mock/`
 - Code is written using OOP and modular structure
 
