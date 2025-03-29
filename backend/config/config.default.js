@@ -23,6 +23,13 @@ module.exports = appInfo => {
     formLimit: '5mb',
   };
 
+  // Disable CSRF protection for development/testing (e.g., Postman)
+  config.security = {
+    csrf: {
+      enable: false,
+    },
+  };
+
   // add your user config here
   const userConfig = {
     // myAppName: 'egg',

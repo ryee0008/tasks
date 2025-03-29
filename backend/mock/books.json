@@ -1,24 +1,30 @@
 [
-    {
-      "id": "1",
-      "title": "Clean Code",
-      "author": "Robert C. Martin",
-      "year": 2008,
-      "available": true
-    },
-    {
-      "id": "2",
-      "title": "JavaScript: The Good Parts",
-      "author": "Douglas Crockford",
-      "year": 2008,
-      "available": false
-    },
-    {
-      "id": "3",
-      "title": "You Don't Know JS",
-      "author": "Kyle Simpson",
-      "year": 2015,
-      "available": true
-    }
-  ]
-  
+  {
+    "id": "1",
+    "title": "Updated Title",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "available": false
+  },
+  {
+    "id": "2",
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "year": 2008,
+    "available": false
+  },
+  {
+    "id": "3",
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "year": 2015,
+    "available": true
+  },
+  {
+    "id": "b666a157-5a5c-41c7-a839-2311378b3ab7",
+    "title": "New Book",
+    "author": "Author X",
+    "year": 2024,
+    "available": true
+  }
+]
