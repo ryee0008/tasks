@@ -1,0 +1,38 @@
+[
+  {
+    "id": "93e8e220-7afc-46f2-ae20-0405a5a6645d",
+    "username": "Alice",
+    "message": "Hello from Postman!",
+    "created_at": "2025-03-29T06:09:31.865Z"
+  },
+  {
+    "id": "852d29f6-1159-41f0-909e-05acaa54ccc3",
+    "username": "Alice1",
+    "message": "Hello from Postman!",
+    "created_at": "2025-03-29T06:13:47.362Z"
+  },
+  {
+    "id": "acb9613a-0640-4485-aee4-2b50c42a4a24",
+    "username": "Alice2",
+    "message": "Hello from Postman!",
+    "created_at": "2025-03-29T06:14:36.465Z"
+  },
+  {
+    "id": "6da173bc-bc3e-4dae-b2b8-665002fd3fed",
+    "username": "Alice3",
+    "message": "Hello from Postman!",
+    "created_at": "2025-03-29T06:14:38.953Z"
+  },
+  {
+    "id": "660c4bb9-1a9b-459a-8e29-c72c0237d988",
+    "username": "Alice4",
+    "message": "Hello from Postman!",
+    "created_at": "2025-03-29T06:14:41.714Z"
+  },
+  {
+    "id": "907c20fb-55b6-4d58-aaa7-a2cae6dc87eb",
+    "username": "Alice5",
+    "message": "Hello from Postman!",
+    "created_at": "2025-03-29T06:14:43.866Z"
+  }
+]
