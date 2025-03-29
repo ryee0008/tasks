@@ -45,11 +45,11 @@ class BookService {
 
   // Delete a book by ID
   deleteBook(id) {
-    const index = this.books.findIndex(book => book.id === id);
-    if (index !== -1) {
-      const removed = this.books.splice(index, 1)[0];
+    const exists = this.books.some(book => book.id === id);
+    if (exists) {
+      this.books = this.books.filter(book => book.id !== id);
       this._save();
-      return removed;
+      return this.books;
     }
     return null;
   }
